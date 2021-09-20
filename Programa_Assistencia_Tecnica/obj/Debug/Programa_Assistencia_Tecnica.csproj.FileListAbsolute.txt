@@ -1,0 +1,14 @@
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\bin\Debug\Programa_Assistencia_Tecnica.exe.config
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\bin\Debug\Programa_Assistencia_Tecnica.exe
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\bin\Debug\Programa_Assistencia_Tecnica.pdb
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.Form1.resources
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.Properties.Resources.resources
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.csproj.GenerateResource.cache
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.csproj.CopyComplete
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.exe
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.pdb
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.Estoque.resources
+C:\Users\CLIENTE\source\repos\Programa_Assistencia_Tecnica\Programa_Assistencia_Tecnica\obj\Debug\Programa_Assistencia_Tecnica.Caixa.resources
